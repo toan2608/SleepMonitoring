@@ -1,0 +1,4 @@
+[0/1] Re-running CMake...
+FAILED: build.ninja 
+C:\Espressif\tools\cmake\3.23.1\bin\cmake.exe --regenerate-during-build -S"C:\Users\HoangMy\OneDrive - Hanoi University of Science and Technology\Desktop\PPG_PCG_ESP32" -B"C:\Users\HoangMy\OneDrive - Hanoi University of Science and Technology\Desktop\PPG_PCG_ESP32\build"
+CreateProcess failed: The system cannot find the file specified.
